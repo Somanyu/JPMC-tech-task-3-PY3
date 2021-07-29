@@ -1,4 +1,5 @@
+/*Increased height&width value*/
 perspective-viewer {
-  height: 50vh;
-  width: 700px;
+  height: 70vh;
+  width: 750px;
 }
